@@ -10,7 +10,7 @@ Pytorch 0.4.1
 
 Input format:
 ======
-CoNLL format, with each character and its label splited by a whitespace in a line. The "BMES" tag scheme is prefered.
+CoNLL format, with each character and its label split by a whitespace in a line. The "BMES" tag scheme is prefered.
 
 	别 O  
 	错 O  
