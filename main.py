@@ -402,9 +402,9 @@ if __name__ == '__main__':
     save_data_name = args.savedset
     gpu = torch.cuda.is_available()
 
-    char_emb = "../CNNNERmodel/data/gigaword_chn.all.a2b.uni.ite50.vec"
+    char_emb = "data/gigaword_chn.all.a2b.uni.ite50.vec"
     bichar_emb = None
-    gaz_file = "../CNNNERmodel/data/ctb.50d.vec"
+    gaz_file = "data/ctb.50d.vec"
 
     sys.stdout.flush()
 
