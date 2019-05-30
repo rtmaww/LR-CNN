@@ -1,11 +1,11 @@
 # LR-CNN
 
-Source codes for paper:
+Source codes for paper:  
 CNN-Based Chinese NER with Lexicon Rethinking  
 
 Requirement:
 ======
-Python 3.6
+Python 3.6  
 Pytorch 0.4.1  
 
 Input format:
@@ -27,6 +27,7 @@ CoNLL format, with each character and its label splited by a whitespace in a lin
 Pretrain embedding:
 ======
 The pretrained embeddings(word embedding, char embedding) are the same with Lattice LSTM(https://github.com/jiesutd/LatticeLSTM)  
+
 
 Run the code:
 ======
